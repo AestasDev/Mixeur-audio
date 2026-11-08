@@ -47,6 +47,11 @@ Windows 10 ou 11, 64 bits.
 - **Raccourci dans le menu Démarrer**.
 - **Thème** : Système / Clair / Sombre.
 - **Sorties masquées** : pour les réafficher.
+- **Mises à jour automatiques** (activées par défaut) : le mixeur vérifie toutes les
+  6 heures si une nouvelle version est publiée, la télécharge, vérifie son
+  empreinte, puis l'installe en silence dès que sa fenêtre est réduite près de
+  l'horloge, et redémarre tout seul. Un bouton « Rechercher » permet de vérifier
+  tout de suite.
 
 Vos réglages sont enregistrés dans `%APPDATA%\MixeurAudio\config.json`.
 
