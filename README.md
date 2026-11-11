@@ -60,6 +60,14 @@ Vos réglages sont enregistrés dans `%APPDATA%\MixeurAudio\config.json`.
 `mixeur-audio.exe --set discord.exe 40` règle une application sur la sortie par
 défaut (pratique avec un Stream Deck ou un raccourci).
 
+## Compteurs RivaTuner / MSI Afterburner dans la fenêtre
+
+Le mixeur s'affiche avec OpenGL (bien plus léger en mémoire). Si vous utilisez
+RivaTuner Statistics Server, il peut dessiner ses compteurs (GPU, CPU, FPS…) dans
+la fenêtre du mixeur. Pour les retirer : dans RivaTuner, cliquez sur **+** en bas à
+gauche, choisissez `mixeur-audio.exe` (dans son dossier d'installation), puis
+réglez **Application detection level** sur **None**.
+
 ## Désinstaller
 
 Paramètres Windows → Applications → Mixeur audio. Vos volumes mémorisés sont
