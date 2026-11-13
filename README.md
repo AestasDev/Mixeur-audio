@@ -14,7 +14,7 @@ redémarrage du PC.
 
 ## Télécharger
 
-👉 **[Télécharger la dernière version](https://github.com/AestasDev/Mixeur-audio/releases/latest)**
+👉 **[Télécharger la dernière version](https://github.com/AestasDev/NovaMixeur/releases/latest)**
 (fichier `NovaMixeur-Setup-x.y.z.exe`)
 
 1. Lancez l'installateur : l'installation se fait pour votre compte, sans droits

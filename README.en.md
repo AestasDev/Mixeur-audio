@@ -13,7 +13,7 @@ app, and **save it** so it is reapplied after the PC restarts.
 
 ## Download
 
-👉 **[Download the latest version](https://github.com/AestasDev/Mixeur-audio/releases/latest)**
+👉 **[Download the latest version](https://github.com/AestasDev/NovaMixeur/releases/latest)**
 (file `NovaMixeur-Setup-x.y.z.exe`)
 
 1. Run the installer: it installs for your account, without administrator rights,
